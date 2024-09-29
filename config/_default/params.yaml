@@ -40,6 +40,7 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
+    show_theme_chooser: true
 
 # Site footer
 
