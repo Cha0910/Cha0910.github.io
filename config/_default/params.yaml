@@ -41,6 +41,8 @@ header:
     show_search: true
     highlight_active_link: false
     show_theme_chooser: true
+    show_translations: true
+    hide_language_name: false
 
 # Site footer
 
