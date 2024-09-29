@@ -34,14 +34,12 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
-    fixed_to_top: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: true
     show_search: true
-    show_theme_chooser: true
-    logo:
-      text: "Your Name"
-
-    
+    highlight_active_link: false
 
 # Site footer
 
