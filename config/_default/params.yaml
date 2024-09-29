@@ -35,14 +35,13 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    align: "center"
     fixed_to_top: true
-    show_logo: true
     show_search: true
-    highlight_active_link: false
     show_theme_chooser: true
-    show_translations: true
-    hide_language_name: false
+    logo:
+      text: "Your Name"
+
+    
 
 # Site footer
 
