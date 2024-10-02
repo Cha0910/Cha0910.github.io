@@ -40,7 +40,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - projects
+          - project
         author: ""
         category: ""
         tag: ""
