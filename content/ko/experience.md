@@ -3,7 +3,7 @@ title: Experience
 type: landing
 
 sections:
-  - block: experience
+  - block: education
     content:
       title: Education
       # Date format for experience
