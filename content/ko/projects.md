@@ -3,9 +3,9 @@ title: 'Projects'
 date: 2024-05-19
 type: landing
 
-design:
-  # Section spacing
-  spacing: '5rem'
+#design:
+#  # Section spacing
+#  spacing: '5rem'
 
 # Page sections
 sections:
@@ -20,11 +20,11 @@ sections:
         exclude_featured: false
         exclude_future: false
         exclude_past: false
-        offset: 0
-        sort_by: 'Date'
-      sort_ascending: false
+    offset: 0
+    sort_by: 'Date'
+    sort_ascending: false
     design:
       view: card
       fill_image: false
       columns: 3
----
+--- 
