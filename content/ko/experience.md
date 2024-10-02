@@ -1,17 +1,11 @@
 ---
-title: 'Experience'
-date: 2023-10-24
+title: Experience
 type: landing
 
-design:
-  spacing: '5rem'
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
 sections:
   - block: resume-experience
     content:
+      # The user's folder name in `content/authors/`
       username: admin
     design:
       # Hugo date format
@@ -21,15 +15,11 @@ sections:
   - block: resume-skills
     content:
       title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
+      # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
   - block: resume-languages
     content:
       title: Languages
+      # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
 ---
