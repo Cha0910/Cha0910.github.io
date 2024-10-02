@@ -17,9 +17,4 @@ sections:
       title: Skills & Hobbies
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
-  - block: languages
-    content:
-      title: Languages
-      # Note: `username` refers to the user's folder name in `content/authors/`
-      username: admin
 ---
