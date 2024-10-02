@@ -7,11 +7,11 @@ main:
   - name: Home
     url: 
     weight: 10
-  - name: News
-    url: post
-    weight: 20
   - name: About
     url: author/admin
+    weight: 20
+  - name: Experience
+    url: experience
     weight: 30
   - name: Projects
     url: projects
