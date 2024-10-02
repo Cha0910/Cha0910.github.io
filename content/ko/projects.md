@@ -16,8 +16,15 @@ sections:
       filters:
         folders:
           - project
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        offset: 0
+        sort_by: 'Date'
+      sort_ascending: false
     design:
-      view: article-grid
+      view: card
       fill_image: false
       columns: 3
 ---
