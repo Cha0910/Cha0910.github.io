@@ -58,5 +58,4 @@ sections:
     design:
       # Choose a listing view
       view: citation
-      columns: '3'
 ---
