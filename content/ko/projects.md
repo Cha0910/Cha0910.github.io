@@ -58,5 +58,5 @@ sections:
     design:
       # Choose a listing view
       view: card
-      columns: 3
+      rows: 3
 ---
