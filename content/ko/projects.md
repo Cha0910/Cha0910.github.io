@@ -56,7 +56,7 @@ sections:
       sort_by: 'Date'
       sort_ascending: false
     design:
-      # Choose a listing view
-      view: card
-      rows: 3
+      view: article-grid
+      fill_image: false
+      columns: 3
 ---
