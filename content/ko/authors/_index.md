@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: admin
 
 # Full Name (for SEO)
 first_name: Nelson
