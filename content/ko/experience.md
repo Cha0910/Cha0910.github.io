@@ -3,7 +3,7 @@ title: Experience
 type: landing
 
 sections:
-  - block: experience
+  - block: resume-experience
     content:
       # The user's folder name in `content/authors/`
       username: admin
