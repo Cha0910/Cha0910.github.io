@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: Projects
 date: 2024-05-19
 view: compact
 # Optional header image (relative to `assets/media/` folder).
