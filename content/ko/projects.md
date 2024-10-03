@@ -1,11 +1,6 @@
 ---
 title: 'Projects'
 date: 2024-05-19
-
-banner:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: 'project.jpg'
-
 type: landing
 
 #design:
@@ -63,4 +58,8 @@ sections:
     design:
       # Choose a listing view
       view: compact
+
+banner:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: 'project.jpg'
 ---
