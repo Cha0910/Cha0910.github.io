@@ -83,8 +83,8 @@ skills:
       - name: Video game
         description: ''
         percent: 60
-        icon: gamepad
         icon_pack: fab
+        icon: gamepad
       - name: Cats
         description: ''
         percent: 100
