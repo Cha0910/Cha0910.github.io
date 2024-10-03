@@ -16,24 +16,6 @@ sections:
         <br>
         
         전북대학교 컴퓨터공학부에서 재학 중인 개발자 꿈나무 차재현입니다. 저는 게임 개발 및 백엔드 시스템 구축에 관심을 두고 지속적인 성장에 목표를 두고 있습니다.
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
   
   - block: slider
     content:
