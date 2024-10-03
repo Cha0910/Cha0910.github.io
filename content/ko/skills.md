@@ -2,7 +2,13 @@
 title: Skills
 type: landing
 
-sections:
+sections:       
+  - block: skills
+    content:
+      title: Skills & Hobbies
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
+      
   - block: features
     content:
       title: Interests
@@ -19,10 +25,5 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-          
-  - block: skills
-    content:
-      title: Skills & Hobbies
-      # Note: `username` refers to the user's folder name in `content/authors/`
-      username: admin
+
 ---
