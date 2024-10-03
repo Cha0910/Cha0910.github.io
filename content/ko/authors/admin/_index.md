@@ -82,7 +82,7 @@ skills:
     items:
       - name: Video game
         description: ''
-        percent: 100
+        percent: 90
         icon_pack: fas
         icon: gamepad
       - name: Cook
@@ -90,10 +90,11 @@ skills:
         icon_pack: fas
         percent: 60
         icon: kitchen-set
-      - name: Photography
+      - name: Computer
         description: ''
-        percent: 80
-        icon: camera
+        percent: 75
+        icon_pack: fas
+        icon: computer
 
 # Awards.
 #   Add/remove as many awards below as you like.
