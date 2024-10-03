@@ -69,12 +69,12 @@ skills:
       - name: Python
         description: ''
         percent: 70
-        #icon_pack: devicon
+        icon_pack: fab
         icon: python
       - name: Java
         description: ''
         percent: 40
-        #icon_pack: devicon
+        icon_pack: fab
         icon: java
   - name: Hobbies
     color: '#eeac02'
