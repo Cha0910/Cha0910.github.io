@@ -64,17 +64,17 @@ skills:
       - name: C++
         description: ''
         percent: 80
-        icon_pack: devicon
+        #icon_pack: devicon
         icon: cplusplus
       - name: Python
         description: ''
         percent: 70
-        icon_pack: devicon
+        #icon_pack: devicon
         icon: python
       - name: Java
         description: ''
         percent: 40
-        icon_pack: devicon
+        #icon_pack: devicon
         icon: java
   - name: Hobbies
     color: '#eeac02'
