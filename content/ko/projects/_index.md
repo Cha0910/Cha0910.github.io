@@ -6,6 +6,4 @@ view: compact
 banner:
   image: 'project.jpg'  # 배너 이미지 파일 이름
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'  # 이미지 캡션
-
-
 ---
