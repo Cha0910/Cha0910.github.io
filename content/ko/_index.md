@@ -11,7 +11,7 @@ sections:
         안녕하세요!
         
       image:
-        filename: welcome.png
+        filename: welcome.jpg
       text: |
         <br>
         
