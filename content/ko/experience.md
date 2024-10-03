@@ -2,6 +2,11 @@
 title: Experience
 type: landing
 
+# Optional header image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: 'experience.jpg'
+
 sections:
   - block: experience
     content:

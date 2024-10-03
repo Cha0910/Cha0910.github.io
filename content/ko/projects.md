@@ -28,6 +28,11 @@ type: landing
 #      fill_image: false
 #      columns: 3
 #--- 
+# Optional header image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: 'project.jpg'
+
 sections:
   - block: collection
     content:
