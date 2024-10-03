@@ -8,22 +8,22 @@ sections:
       title: Skills & Hobbies
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
-      
+
   - block: features
     content:
       title: Interests
       items:
-        - name: R
+        - name: Game Develop
           description: 90%
-          icon: r-project
+          icon: gamepad
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: Mobile
+          description: 70%
+          icon: mobile
+          icon_pack: fab
+        - name: AI
+          description: 40%
+          icon: robot
+          icon_pack: fab
 
 ---

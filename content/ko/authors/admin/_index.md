@@ -82,13 +82,14 @@ skills:
     items:
       - name: Video game
         description: ''
-        percent: 60
+        percent: 100
         icon_pack: fas
         icon: gamepad
-      - name: Cats
+      - name: Cook
         description: ''
-        percent: 100
-        icon: cat
+        icon_pack: fab
+        percent: 60
+        icon: kitchen-set
       - name: Photography
         description: ''
         percent: 80
