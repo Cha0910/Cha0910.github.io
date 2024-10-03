@@ -3,7 +3,7 @@ title: Experience
 # Optional header image (relative to `assets/media/` folder).
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: 'experience.jpg'
+  image: 'assets/media/experience.jpg'
 
 type: landing
 
