@@ -16,14 +16,14 @@ sections:
         - name: Game Develop
           description: 90%
           icon: gamepad
-          icon_pack: fab
+          icon_pack: fas
         - name: Mobile
           description: 70%
           icon: mobile
-          icon_pack: fab
+          icon_pack: fas
         - name: AI
-          description: 40%
+          description: 50%
           icon: robot
-          icon_pack: fab
+          icon_pack: fas
 
 ---

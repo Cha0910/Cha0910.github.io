@@ -87,7 +87,7 @@ skills:
         icon: gamepad
       - name: Cook
         description: ''
-        icon_pack: fab
+        icon_pack: fas
         percent: 60
         icon: kitchen-set
       - name: Photography
