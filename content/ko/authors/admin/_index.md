@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cha
+title: 차재현
 
 # Full Name (for SEO)
 first_name: 재현
