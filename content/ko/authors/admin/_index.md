@@ -61,23 +61,26 @@ highlight_name: false
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon_pack: fap
+        icon: cpp
+      - name: Python
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 70
+        icon_pack: fap
+        icon: python
+      - name: Java
         description: ''
         percent: 40
-        icon: circle-stack
+        icon_pack: fap
+        icon: java
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Video game
         description: ''
         percent: 60
         icon: person-simple-walk
