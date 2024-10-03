@@ -7,8 +7,6 @@ banner:
 
 type: landing
 
-
-
 sections:
   - block: experience
     content:
