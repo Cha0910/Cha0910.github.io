@@ -26,6 +26,7 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
 
+  - block: experience
     content:
       title: Experience
       # Date format for experience
@@ -36,7 +37,6 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -57,7 +57,7 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-
+          
   - block: skills
     content:
       title: Skills & Hobbies
