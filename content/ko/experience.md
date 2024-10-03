@@ -34,7 +34,7 @@ sections:
 
   - block: features
     content:
-      title: 관심분야
+      title: Interests
       items:
         - name: R
           description: 90%
