@@ -1,6 +1,11 @@
 ---
 title: 'Projects'
 date: 2024-05-19
+
+banner:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: 'project.jpg'
+
 type: landing
 
 #design:
@@ -29,9 +34,6 @@ type: landing
 #      columns: 3
 #--- 
 # Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: 'project.jpg'
 
 sections:
   - block: collection

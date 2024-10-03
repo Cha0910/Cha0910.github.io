@@ -1,11 +1,13 @@
 ---
 title: Experience
-type: landing
-
 # Optional header image (relative to `assets/media/` folder).
 banner:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
   image: 'experience.jpg'
+
+type: landing
+
+
 
 sections:
   - block: experience
