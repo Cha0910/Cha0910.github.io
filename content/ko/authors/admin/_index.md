@@ -64,8 +64,7 @@ skills:
       - name: C++
         description: ''
         percent: 80
-        icon_pack: fab
-        icon: c
+        icon: cplusplus
       - name: Python
         description: ''
         percent: 70
@@ -83,7 +82,8 @@ skills:
       - name: Video game
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: gamepad
+        icon_pack: fab
       - name: Cats
         description: ''
         percent: 100
