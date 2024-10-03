@@ -8,7 +8,7 @@ main:
     url: 
     weight: 10
   - name: About
-    url: author/admin
+    url: author/cha
     weight: 20
   - name: Experience
     url: experience
