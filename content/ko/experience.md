@@ -5,10 +5,6 @@ type: landing
 sections:
   - block: experience
     content:
-    # Optional header image (relative to `assets/media/` folder).
-      banner:
-        caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-        image: 'assets/media/experience.jpg'
       title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -29,12 +25,6 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-    
-  - block: skills
-    content:
-      title: Skills & Hobbies
-      # Note: `username` refers to the user's folder name in `content/authors/`
-      username: admin
 
   - block: features
     content:
@@ -52,4 +42,10 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+          
+  - block: skills
+    content:
+      title: Skills & Hobbies
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
 ---
