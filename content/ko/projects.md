@@ -31,9 +31,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Recent Posts
-      subtitle: ''
-      text: 'Check out my recent blog posts below!'
+      title: Projects
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
