@@ -1,15 +1,14 @@
 ---
 title: Experience
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: 'assets/media/experience.jpg'
-
 type: landing
 
 sections:
   - block: experience
     content:
+    # Optional header image (relative to `assets/media/` folder).
+      banner:
+        caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+        image: 'assets/media/experience.jpg'
       title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
