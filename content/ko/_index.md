@@ -8,15 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        안녕하세요!
+        
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+        전북대학교 컴퓨터공학부에서 재학 중인 개발자 꿈나무 차재현입니다. 저는 게임 개발 및 백엔드 시스템 구축에 관심을 두고 지속적인 성장에 목표를 두고 있습니다.
   - block: collection
     content:
       title: Latest News
