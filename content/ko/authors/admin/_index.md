@@ -64,7 +64,7 @@ skills:
       - name: C++
         description: ''
         percent: 80
-        icon_pack: fab
+        icon_pack: fas
         icon: c
       - name: Python
         description: ''
