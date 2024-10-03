@@ -1,7 +1,6 @@
 ---
 title: 'Projects'
 date: 2024-05-19
-type: landing
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
