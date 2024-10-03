@@ -15,7 +15,6 @@ main:
     name: intoroduce
     url: author/차재현
     weight: 20
-
   - parent: About
     name: Skills
     url: skills
