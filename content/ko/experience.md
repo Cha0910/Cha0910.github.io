@@ -34,9 +34,7 @@ sections:
 
   - block: features
     content:
-      title: My Interests
-      subtitle: Section subtitle
-      text: Section text
+      title: 관심분야
       items:
         - name: R
           description: 90%
