@@ -251,8 +251,12 @@
     .nav-link {
       color: $navbar-light-color;
 
+      @include hover-focus() {
+        color: #f00;
+      }
+
       &:hover {
-        color: $navbar-light-hover-color;
+        color: #f00;
       }
 
       &.disabled {
@@ -304,7 +308,11 @@
       color: $navbar-dark-color;
 
       @include hover-focus() {
-        color: $navbar-dark-hover-color;
+        color: #f00;
+      }
+
+      &:hover {
+        color: #f00;
       }
 
       &.disabled {
