@@ -20,11 +20,11 @@
   .navbar-nav {
     .nav-link {
       color: $navbar-light-color;
-
-      @include hover-focus() {
+      
+      &:hover {
         color: $navbar-light-hover-color;
       }
-
+      
       &.disabled {
         color: $navbar-light-disabled-color;
       }
@@ -73,7 +73,7 @@
     .nav-link {
       color: $navbar-dark-color;
 
-      @include hover-focus() {
+      &:hover {
         color: $navbar-dark-hover-color;
       }
 
