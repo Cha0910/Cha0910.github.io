@@ -10,7 +10,7 @@ last_name: 차
 superuser: true
 
 # Role/position
-role: 컴퓨터공학부 재학생
+role: 컴퓨터공학부 학부생
 
 # Organizations/Affiliations
 organizations:
@@ -102,7 +102,7 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 ---
 
-전북대학교 컴퓨터공학부에서 재학 중인 개발자 꿈나무 차재현입니다. 저는 게임 개발 및 백엔드 시스템과 인공지능 분야에 관심을 두고 지속적인 성장에 목표를 두고 있습니다.
+전북대학교 컴퓨터공학부에서 재학 중인 개발자 지망생 차재현입니다. 저는 게임 개발 및 백엔드 시스템과 인공지능 분야에 관심을 두고 지속적인 성장에 목표를 두고 있습니다.
 
 학업을 통하여 다양한 분야의 기술과 개념을 접해보고 끊임없이 학습하고 있으며 다양한 프로젝트 및 활동으로 문제해결과 협력의 능력을 꾸준히 향상하고자 합니다. 이러한 경험을 바탕으로 목표를 이루어 보다 나은, 뛰어난 개발자로 성장하고자 합니다.
 

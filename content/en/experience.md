@@ -31,11 +31,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 재학 중
-          company: 전북대학교 컴퓨터공학부
+        - title: Currently enrolled
+          company: Department of Computer Science, Jeonbuk National University.
           company_url: 'https://cse.jbnu.ac.kr/cse/index.do'
           #company_logo: org-gc
-          location: 대한민국
+          location: South Korea
           date_start: '2020-03-02'
           date_end: ''
     design:

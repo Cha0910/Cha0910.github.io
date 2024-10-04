@@ -8,20 +8,20 @@ sections:
   - block: hero
     content:
       title: |
-        안녕하세요!
+        Hello!
         
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        전북대학교 컴퓨터공학부에서 재학 중인 개발자 지망생 차재현입니다. 저는 게임 개발 및 백엔드 시스템 구축에 관심을 두고 지속적인 성장에 목표를 두고 있습니다.
+        I am JaeHyeon Cha, an aspiring developer B.A. degree expected in Computer Science at Jeonbuk National University. I am interested in game development and backend system architecture, with a goal of continuous growth.
   
   - block: slider
     content:
       slides:
-      - title: 👋 어서오세요!
-        content: 개발자 지망생 차재현의 포트폴리오입니다.
+      - title: 👋 Welcome!
+        content: Here is the portfolio of JaeHyeon Cha, an aspiring developer.
         align: center
         background:
           image:
@@ -30,8 +30,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 저는..
-        content: '게임 개발과 백엔드에 관심을 갖고 있습니다'
+      - title: I am...
+        content: 'interested in game development and backend systems.'
         align: left
         background:
           image:
@@ -44,10 +44,10 @@ sections:
           icon: user
           icon_pack: fas
           text: Introduce
-          url: ../author/차재현/
+          url: ..en/author/jaehyeoncha/
           
-      - title: 프로젝트
-        content: '다음과 같은 프로젝트로 경험을 쌓고 있습니다.'
+      - title: Projects
+        content: 'I am gaining experience through projects like the following.'
         align: left
         background:
           image:

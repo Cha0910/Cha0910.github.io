@@ -10,24 +10,24 @@ last_name: Cha
 superuser: true
 
 # Role/position
-role: 컴퓨터공학부 재학생
+role: Undergraduate in Computer Science
 
 # Organizations/Affiliations
 organizations:
-  - name: 전북대학교
+  - name: Jeonbuk National University
     url: 'https://www.jbnu.ac.kr/kor/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - 게임 개발
-  - 인공지능
+  - Game Development
+  - Artificial Intelligence
 
 education:
   courses:
-    - course: 컴퓨터공학부 재학 중
-      institution: 전북대학교
+    - course: B.A. degree expected in Computer Science
+      institution: Jeonbuk National University
       year: 2024
 
 # Social/Academic Networking
@@ -102,8 +102,8 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 ---
 
-전북대학교 컴퓨터공학부에서 재학 중인 개발자 꿈나무 차재현입니다. 저는 게임 개발 및 백엔드 시스템과 인공지능 분야에 관심을 두고 지속적인 성장에 목표를 두고 있습니다.
+I am JaeHyeon Cha, a B.A. degree expected in of Computer Science at Jeonbuk National University. I am interested in game development, backend systems, and artificial intelligence, with a goal of continuous growth.
 
-학업을 통하여 다양한 분야의 기술과 개념을 접해보고 끊임없이 학습하고 있으며 다양한 프로젝트 및 활동으로 문제해결과 협력의 능력을 꾸준히 향상하고자 합니다. 이러한 경험을 바탕으로 목표를 이루어 보다 나은, 뛰어난 개발자로 성장하고자 합니다.
+Through my studies, I am exploring various technologies and concepts and constantly learning. I aim to improve my problem-solving and collaboration skills through diverse projects and activities. Based on these experiences, I strive to achieve my goals and grow into a better and outstanding developer.
 
 
