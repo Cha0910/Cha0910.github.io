@@ -279,6 +279,10 @@
         @include hover-focus() {
           color: $navbar-light-active-color;
         }
+
+        &.hover {
+          color: $navbar-light-hover-color;
+        }
       }
     }
   }
@@ -334,6 +338,10 @@
   
         @include hover-focus() {
           color: $navbar-dark-active-color;
+        }
+
+        &.hover {
+          color: $navbar-dark-hover-color; 
         }
       }
     }
