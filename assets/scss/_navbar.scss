@@ -249,7 +249,7 @@
           color: $navbar-light-disabled-color;
         }
 
-        &:hover {
+        &.hover {
           color: $navbar-light-hover-color;
         }
       }
@@ -305,7 +305,7 @@
           color: $navbar-dark-disabled-color;
         }
 
-        &:hover {
+        &.hover {
           color: $navbar-dark-hover-color; 
         }
       }
