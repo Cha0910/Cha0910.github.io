@@ -8,13 +8,31 @@
   justify-content: center;
 }
 
-.navbar-nav {
-  .nav-link {
-    color: $navbar-dark-color !important;
-    transition: color 0.3s ease;
+.navbar-light {
+  background-color: $navbar-light-bg;
 
-    &:hover {
-      color: $navbar-dark-hover-color !important;
+  .navbar-nav {
+    .nav-link {
+      color: $navbar-light-color !important;
+      transition: color 0.3s ease; 
+
+      &:hover {
+        color: $navbar-light-hover-color !important; 
+      }
+    }
+  }
+}
+
+.navbar-dark {
+  background-color: $navbar-dark-bg;
+
+  .navbar-nav {
+    .nav-link {
+      color: $navbar-dark-color !important; 
+      transition: color 0.3s ease; 
+      &:hover {
+        color: $navbar-dark-hover-color !important; 
+      }
     }
   }
 }
