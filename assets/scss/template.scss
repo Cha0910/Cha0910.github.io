@@ -10,11 +10,11 @@
 
 .navbar-nav {
   .nav-link {
-    color: $navbar-dark-color !important;
+    color: $navbar-light-color !important;
     transition: color 0.3s ease;
 
     &:hover {
-      color: $navbar-dark-hover-color !important;
+      color: $navbar-light-hover-color !important;
     }
   }
 }
