@@ -28,7 +28,7 @@
       color: $navbar-light-color;
 
       @include hover-focus() {
-        color: #0ff !important;
+        color: $navbar-light-active-color !important;
       }
 
       &.disabled {
@@ -54,7 +54,7 @@
       color: $navbar-dark-color;
 
       @include hover-focus() {
-        color: #0ff !important;
+        color: $navbar-dark-active-color !important;
       }
 
       &.disabled {
