@@ -248,6 +248,10 @@
         &.disabled {
           color: $navbar-light-disabled-color;
         }
+
+        &:hover {
+          color: $navbar-light-hover-color;
+        }
       }
   
       .show > .nav-link,
@@ -299,6 +303,10 @@
   
         &.disabled {
           color: $navbar-dark-disabled-color;
+        }
+
+        &:hover {
+          color: $navbar-dark-hover-color; 
         }
       }
   
