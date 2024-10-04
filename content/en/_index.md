@@ -44,7 +44,7 @@ sections:
           icon: user
           icon_pack: fas
           text: Introduce
-          url: ..en/author/jaehyeon-cha/
+          url: ../author/jaehyeon-cha/
           
       - title: Projects
         content: 'I am gaining experience through projects like the following.'
@@ -60,7 +60,7 @@ sections:
           icon: book-open
           icon_pack: fas
           text: Projects
-          url: ..en/projects/
+          url: ../projects/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '400px'
