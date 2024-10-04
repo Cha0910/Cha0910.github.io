@@ -20,11 +20,11 @@
   .navbar-nav {
     .nav-link {
       color: $navbar-light-color;
-      
-      &:hover {
+
+      @include hover-focus() {
         color: $navbar-light-hover-color;
       }
-      
+
       &.disabled {
         color: $navbar-light-disabled-color;
       }
@@ -53,7 +53,7 @@
       color: $navbar-light-active-color;
 
       @include hover-focus() {
-        color: $navbar-light-active-color;
+        color: $navbar-light-hover-color;
       }
     }
   }
@@ -73,7 +73,7 @@
     .nav-link {
       color: $navbar-dark-color;
 
-      &:hover {
+      @include hover-focus() {
         color: $navbar-dark-hover-color;
       }
 
@@ -105,7 +105,7 @@
       color: $navbar-dark-active-color;
 
       @include hover-focus() {
-        color: $navbar-dark-active-color;
+        color: $navbar-dark-hover-color;
       }
     }
   }
