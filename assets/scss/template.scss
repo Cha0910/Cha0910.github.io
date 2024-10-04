@@ -255,12 +255,12 @@
         color: $navbar-light-hover-color;
       }
 
-      &:hover {
-        color: #f00 !important;
-      }
-
       &.disabled {
         color: $navbar-light-disabled-color;
+      }
+
+      &:hover {
+        color: #00f !important
       }
     }
 
@@ -310,13 +310,13 @@
       @include hover-focus() {
         color: $navbar-dark-hover-color;
       }
-      
-      &:hover {
-        color: #f00 !important;
-      }
 
       &.disabled {
         color: $navbar-dark-disabled-color;
+      }
+
+      &:hover {
+        color: #00f !important
       }
     }
 
