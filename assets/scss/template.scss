@@ -34,6 +34,10 @@
       &.disabled {
         color: $navbar-light-disabled-color;
       }
+
+      &:hover {
+        color: $navbar-light-hover-color;
+      }
     }
   }
 }
@@ -58,6 +62,10 @@
 
       &.disabled {
         color: $navbar-dark-disabled-color;
+      }
+
+      &:hover {
+        color: $navbar-dark-hover-color;
       }
     }
   }
