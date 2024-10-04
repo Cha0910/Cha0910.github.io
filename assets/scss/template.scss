@@ -8,24 +8,10 @@
   justify-content: center;
 }
 
-.navbar-nav {
-  .nav-link {
-    // 기본 글자 색상 설정
-    color: rgba($sta-menu-text, 0.85);
+.navbar-nav .nav-link {
+  transition: color 0.3s; // 색상 변경에 부드러운 전환 효과 추가
 
-    // 마우스 오버 시 색상 변경
-    &:hover {
-      color: $sta-menu-text-active; // 마우스 오버 시 색상
-    }
-
-    &.active,
-    &:focus {
-      color: $sta-menu-text;
-    }
-
-    &.active {
-      font-weight: bold !important;
-      color: $sta-menu-text-active !important;
-    }
+  &:hover {
+    color: #007bff; // 마우스를 올렸을 때 사용할 색상으로 변경
   }
 }
