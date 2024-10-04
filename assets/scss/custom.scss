@@ -1,36 +1,21 @@
-$color-gray-600: #4B5563; // 기본 색상
-$color-gray-800: #1F2937; // hover 색상
-$color-gray-400: #9CA3AF; // 다크 모드 기본 색상
-$color-gray-200: #E5E7EB; // 다크 모드 hover 색상
+// 색상 설정
+$primary-color: #3498db;
+$hover-color: #2980b9;
+$text-color: #333;
 
-.navbar {
-  // 기본 메뉴 링크 스타일
-  .nav-link {
-    color: $color-gray-600;
-    transition: color 0.3s; // 색상 전환 효과
+body {
+  background-color: white;
+  color: $text-color;
+}
+
+nav {
+  background-color: $primary-color;
+
+  a {
+    color: white;
 
     &:hover {
-      color: $color-gray-800; // hover 상태 색상
-    }
-
-    &.active {
-      font-weight: bold; // 활성화된 메뉴 항목 강조
-      color: $color-gray-800; // 활성화된 색상
-    }
-  }
-
-  // 다크 모드 스타일
-  @media (prefers-color-scheme: dark) {
-    .nav-link {
-      color: $color-gray-400;
-
-      &:hover {
-        color: $color-gray-200; // 다크 모드 hover 색상
-      }
-
-      &.active {
-        color: $color-gray-200; // 다크 모드 활성화된 색상
-      }
+      color: $hover-color;
     }
   }
 }
