@@ -22,7 +22,7 @@ sections:
       slides:
       - title: 👋 어서오세요!
         content: 개발자 지망생 차재현의 포트폴리오입니다.
-        align: center
+        align: left
         background:
           image:
             filename: hello.jpg
