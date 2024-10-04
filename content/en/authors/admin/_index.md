@@ -1,6 +1,6 @@
 ---
 # Display name
-title: JaeHyeonCha
+title: JaeHyeon Cha
 
 # Full Name (for SEO)
 first_name: JaeHyeon

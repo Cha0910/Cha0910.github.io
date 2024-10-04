@@ -9,11 +9,11 @@ main:
     weight: 10
 
   - name: About
-    url: en/author/jaehyeoncha
+    url: en/author/jae-hyeoncha
     weight: 20
   - parent: About
     name: introduce
-    url: en/author/jaehyeoncha
+    url: en/author/jae-hyeoncha
     weight: 20
   - parent: About
     name: Skills
