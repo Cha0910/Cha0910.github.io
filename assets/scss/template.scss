@@ -28,7 +28,7 @@
       color: $navbar-light-color;
 
       @include hover-focus() {
-        color: $navbar-light-brand-hover-color !important;
+        color: $navbar-light-active-color;
       }
 
       &.disabled {
@@ -36,7 +36,7 @@
       }
 
       &:hover {
-        color: $navbar-light-brand-hover-color !important;
+        color: $navbar-light-active-color !important;
       }
     }
   }
@@ -57,7 +57,7 @@
       color: $navbar-dark-color;
 
       @include hover-focus() {
-        color: $navbar-dark-brand-hover-color !important;
+        color: $navbar-dark-active-color
       }
 
       &.disabled {
@@ -65,7 +65,7 @@
       }
 
       &:hover {
-        color: $navbar-dark-brand-hover-color !important;
+        color: $navbar-dark-active-color !important;
       }
     }
   }
