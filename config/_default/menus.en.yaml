@@ -9,25 +9,25 @@ main:
     weight: 10
 
   - name: About
-    url: en/author/jaehyeon-cha
+    url: author/jaehyeon-cha
     weight: 20
   - parent: About
     name: introduce
-    url: en/author/jaehyeon-cha
+    url: author/jaehyeon-cha
     weight: 20
   - parent: About
     name: Skills
-    url: en/skills
+    url: skills
     weight: 20
 
   - name: Experience
-    url: en/experience
+    url: experience
     weight: 30
 
   - name: Projects
-    url: en/projects
+    url: projects
     weight: 40
 
   - name: Contact
-    url: en/contact
+    url: contact
     weight: 50
