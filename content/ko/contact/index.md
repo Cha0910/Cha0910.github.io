@@ -11,7 +11,7 @@ sections:
       text: |-
 
       email: ae20414@naver.com
-      phone: 010-4944-2710
+      phone: '010-4944-2710'
       coordinates:
         latitude: '35.84601324617979'
         longitude: '127.13444961966684'
