@@ -254,10 +254,6 @@
       @include hover-focus() {
         color: $navbar-light-hover-color;
       }
-
-      &.disabled {
-        color: $navbar-light-disabled-color;
-      }
     }
 
     .show > .nav-link,
@@ -305,10 +301,6 @@
 
       @include hover-focus() {
         color: $navbar-dark-hover-color;
-      }
-
-      &.disabled {
-        color: $navbar-dark-disabled-color;
       }
     }
 
