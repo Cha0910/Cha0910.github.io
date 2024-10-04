@@ -8,41 +8,13 @@
   justify-content: center;
 }
 
-$navbar-light-bg: #ffffff;
-$navbar-light-color: #333333;
-$navbar-light-hover-color: #ff0000;
+.navbar-nav {
+  .nav-link {
+    color: $navbar-dark-color !important;
+    transition: color 0.3s ease;
 
-.navbar-light {
-  background-color: $navbar-light-bg;
-
-  .navbar-nav {
-    .nav-link {
-      color: $navbar-light-color !important;
-      transition: color 0.3s ease;
-
-      &:hover {
-        color: $navbar-light-hover-color !important;
-      }
-    }
-  }
-}
-
-// Dark Mode Colors
-$navbar-dark-bg: #333333;
-$navbar-dark-color: #cccccc;
-$navbar-dark-hover-color: #ff0000;
-
-.navbar-dark {
-  background-color: $navbar-dark-bg;
-
-  .navbar-nav {
-    .nav-link {
-      color: $navbar-dark-color !important;
-      transition: color 0.3s ease;
-
-      &:hover {
-        color: $navbar-dark-hover-color !important;
-      }
+    &:hover {
+      color: $navbar-dark-hover-color !important;
     }
   }
 }
