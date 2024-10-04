@@ -7,11 +7,3 @@
 .cta-group {
   justify-content: center;
 }
-
-.navbar-nav .nav-link {
-  transition: color 0.3s; // 색상 변경에 부드러운 전환 효과 추가
-
-  &:hover {
-    color: #007bff; // 마우스를 올렸을 때 사용할 색상으로 변경
-  }
-}
