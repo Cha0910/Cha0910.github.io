@@ -8,13 +8,24 @@
   justify-content: center;
 }
 
-/* 기본 글자 색상 설정 */
-.navbar-nav .nav-link {
-  color: #333; /* 기본 색상 */
-  transition: color 0.3s ease; /* 부드러운 색상 전환 효과 */
-}
+.navbar-nav {
+  .nav-link {
+    // 기본 글자 색상 설정
+    color: rgba($sta-menu-text, 0.85);
 
-/* 마우스 오버 시 글자 색상 변경 */
-.navbar-nav .nav-link:hover {
-  color: #007bff; /* 마우스 오버 시 색상 */
+    // 마우스 오버 시 색상 변경
+    &:hover {
+      color: $sta-menu-text-active; // 마우스 오버 시 색상
+    }
+
+    &.active,
+    &:focus {
+      color: $sta-menu-text;
+    }
+
+    &.active {
+      font-weight: bold !important;
+      color: $sta-menu-text-active !important;
+    }
+  }
 }
