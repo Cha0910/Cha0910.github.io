@@ -22,34 +22,18 @@
       @include hover-focus() {
         color: $navbar-light-active-color !important;
       }
-
-      &.disabled {
-        color: $navbar-light-disabled-color;
-      }
     }
   }
 }
 
 // White links against a dark background
 .navbar-dark {
-  .navbar-brand {
-    color: $navbar-dark-brand-color;
-
-    @include hover-focus() {
-      color: $navbar-dark-brand-hover-color;
-    }
-  }
-
   .navbar-nav {
     .nav-link {
       color: $navbar-dark-color;
 
       @include hover-focus() {
         color: $navbar-dark-active-color !important;
-      }
-
-      &.disabled {
-        color: $navbar-dark-disabled-color;
       }
     }
   }
