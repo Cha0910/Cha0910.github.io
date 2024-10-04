@@ -8,13 +8,11 @@
   justify-content: center;
 }
 
-/* 메뉴 항목 기본 스타일 */
-nav a {
-  color: #000; /* 기본 글자 색 (검정색) */
-  transition: color 0.3s ease; /* 색상이 변경될 때 부드럽게 전환 */
-}
+.menu-item {
+  color: #333; // 기본 색상
+  transition: color 0.3s ease; // 색상 변경 애니메이션
 
-/* 메뉴 항목에 마우스를 올렸을 때 색상 변경 */
-nav a:hover {
-  color: #f00; /* 마우스를 올렸을 때 글자 색 (빨간색) */
+  &:hover {
+    color: #007bff; // 마우스 오버 시 색상 변경
+  }
 }
