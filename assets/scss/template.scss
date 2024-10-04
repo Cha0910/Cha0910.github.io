@@ -333,9 +333,9 @@
     color: $navbar-dark-color;
     a {
       color: $navbar-dark-active-color;
-      
+
       &:hover {
-        color: $navbar-dark-hover-color;
+        color: $navbar-dark-brand-hover-color;
       }
     }
   }
