@@ -53,7 +53,7 @@
       color: $navbar-light-active-color;
 
       @include hover-focus() {
-        color: $navbar-light-hover-color;
+        color: $navbar-light-active-color;
       }
     }
   }
@@ -105,7 +105,7 @@
       color: $navbar-dark-active-color;
 
       @include hover-focus() {
-        color: $navbar-dark-hover-color;
+        color: $navbar-dark-active-color;
       }
     }
   }
