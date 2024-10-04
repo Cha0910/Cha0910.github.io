@@ -21,14 +21,14 @@ sections:
     content:
       slides:
       - title: 👋 어서오세요!
-        content: 개발자 지망생 차재현의 포트폴리오입니다.
+        content: '개발자 지망생 차재현의 포트폴리오입니다.'
         align: left
         background:
           image:
             filename: hello.jpg
             filters:
               brightness: 0.7
-          position: center
+          position: right
           color: '#666'
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
