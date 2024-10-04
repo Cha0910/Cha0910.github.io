@@ -21,8 +21,8 @@ sections:
     content:
       slides:
       - title: 👋 어서오세요!
-        content: '개발자 지망생 차재현의 포트폴리오입니다.'
-        align: left
+        content: 개발자 지망생 차재현의 포트폴리오입니다.
+        align: center
         background:
           image:
             filename: hello.jpg
@@ -30,31 +30,37 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 저는..
+        content: '게임 개발과 백엔드에 관심을 갖고 있습니다'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: introduce.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
+        link:
+          icon: user
+          icon_pack: fas
+          text: Introduce
+          url: ../author/차재현/
+          
+      - title: 프로젝트
+        content: '다음과 같은 프로젝트로 경험을 쌓고 있습니다.'
+        align: left
         background:
           image:
-            filename: welcome.jpg
+            filename: project.jpg
             filters:
               brightness: 0.5
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: book-open
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: Projects
+          url: ../projects/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '400px'
