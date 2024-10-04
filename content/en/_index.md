@@ -44,7 +44,7 @@ sections:
           icon: user
           icon_pack: fas
           text: Introduce
-          url: ..en/author/jaehyeoncha/
+          url: ..author/jaehyeon-cha/
           
       - title: Projects
         content: 'I am gaining experience through projects like the following.'
