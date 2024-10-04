@@ -15,28 +15,16 @@
 
 // Dark links against a light background
 .navbar-light {
-  .navbar-brand {
-    color: $navbar-light-brand-color;
-
-    @include hover-focus() {
-      color: $navbar-light-brand-hover-color;
-    }
-  }
-
   .navbar-nav {
     .nav-link {
       color: $navbar-light-color;
 
       @include hover-focus() {
-        color: $navbar-light-active-color;
+        color: $navbar-light-active-color !important;
       }
 
       &.disabled {
         color: $navbar-light-disabled-color;
-      }
-
-      &:hover {
-        color: $navbar-light-active-color !important;
       }
     }
   }
@@ -57,15 +45,11 @@
       color: $navbar-dark-color;
 
       @include hover-focus() {
-        color: $navbar-dark-active-color
+        color: $navbar-dark-active-color !important;
       }
 
       &.disabled {
         color: $navbar-dark-disabled-color;
-      }
-
-      &:hover {
-        color: $navbar-dark-active-color !important;
       }
     }
   }
